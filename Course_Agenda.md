@@ -74,6 +74,8 @@
 This section will be done as a practical during the meeting. It would help if you could familiarize yourself with fMRI Keywords available at ...
 
  
- # Lecture 4 (Parallel processing of MRI on the cluster):
+ # Lecture 4 (MRI specific):
  
- I will update it accordingly
+ - Parallel processing of fMRI on the cluster
+ 
+   This section will be done as a practical during the meeting. It would help if you could familiarize yourself with the fsl scripts that we will use on the cluster. It is available at https://github.com/RHULPsychology/HeudiConv_BIDS_conversion
