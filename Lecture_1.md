@@ -1,4 +1,6 @@
-# Lecture 1 (General): 
+# Lecture 1:
+## Introduction to the Linux cluster, basic BASH commands and git:
+
 
   - Pre-requisities:
 
