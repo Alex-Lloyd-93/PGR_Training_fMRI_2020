@@ -4,9 +4,9 @@
 
   - Pre-requisities:
 
-    -- For Mac users use the terminal. 
-    -- For windows users install the full version of cmder as a terminal. If you need any help in the installation of cmder, please look at the official installation documentation https://github.com/cmderdev/cmder/blob/master/README.md#installation.
-    -- Email <can.keles@rhul.ac.uk> for checking whether your access to the cluster is granted. You should be doing this a lot 
+    - For Mac users use the terminal. 
+    - For windows users install the full version of cmder as a terminal. If you need any help in the installation of cmder, please look at the official installation documentation https://github.com/cmderdev/cmder/blob/master/README.md#installation.
+    - Email <can.keles@rhul.ac.uk> for checking whether your access to the cluster is granted. You should be doing this a lot 
 
   - Familiarization with the cluster architecture
   
