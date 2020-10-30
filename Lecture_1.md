@@ -25,4 +25,4 @@
       source /usr/local/apps/psycapps/config/conda_bash_update
   ```
 
-    You would be able to fork a repository from github or create a new repo in github, clone it on the cluster, make changes, git add, git commit and git pull and git push from the command line. It is very important for any further steps. Please refer to the tutorials mentioned in https://github.com/RHULPsychology/Important_Tutorials/blob/master/Git/Important_Links.md
+   You would be able to fork a repository from github or create a new repo in github, clone it on the cluster, make changes, git add, git commit and git pull and git push from the command line. It is very important for any further steps. Please refer to the tutorials mentioned in https://github.com/RHULPsychology/Important_Tutorials/blob/master/Git/Important_Links.md
