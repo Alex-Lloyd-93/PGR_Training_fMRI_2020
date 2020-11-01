@@ -9,7 +9,7 @@
     
     - For Windows users install the full version of cmder as a terminal. Download and extract cmder from the link: https://github.com/cmderdev/cmder/releases/download/v1.3.16/cmder.zip. Inside the extracted folder double-click the cmder executable to launch the terminal. If you need any further help in the installation of cmder, please look at the official installation documentation https://github.com/cmderdev/cmder/blob/master/README.md#installation.
     
-    - If possible attend Lecture 1, please get yourself familiarized with basic Bash commands and exercises in: https://github.com/RHULPsychology/Important_Tutorials/blob/master/Bash/Important_Commands.md    
+    - If possible attend Lecture 1 otherwise please get yourself familiarized with basic Bash commands and exercises in: https://github.com/RHULPsychology/Important_Tutorials/blob/master/Bash/Important_Commands.md    
     
 
   - Familiarization with the cluster architecture
