@@ -11,16 +11,16 @@
     
     - Github for Poets. Watch the following tutorial videos for familiarization with Git: (A lot of these will be covered in the lecture)
     
-      -- Intro to Github
+      a. Intro to Github
           https://www.youtube.com/watch?v=BCQHnlnPusY
 
-      -- Branches
+      b. Branches
           https://www.youtube.com/watch?v=oPpnCh7InLY
       
-      -- Forks and Pull Request
+      c. Forks and Pull Request
           https://www.youtube.com/watch?v=_NrSWLQsDL4
 
-      -- Rename the Repository
+      d. Rename the Repository
           https://help.github.com/en/github/administering-a-repository/renaming-a-repository
     
     
