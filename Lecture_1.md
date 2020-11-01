@@ -12,7 +12,7 @@
 
   - Familiarization with the cluster architecture
   
-    In this lecture you would get familiarized with the cluster architecture. (Schematic is shared in https://github.com/RHULPsychology/Important_Tutorials/blob/master/README.md). You whould be able to relate to terms like a login node, a master node and worker nodes. This would be essential to understand how the parallelization would work.
+    In this lecture you would get familiarized with the cluster architecture. (Schematic diagram is shared in https://github.com/RHULPsychology/Important_Tutorials/blob/master/README.md). You whould be able to relate to terms like a login node, a master node and worker nodes. This would be essential to understand how the parallelization would work.
     
   - Basic BASH commands:
   
