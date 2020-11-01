@@ -102,9 +102,9 @@
 
     - Exercises (to be done in the lecture): 
 
-      1. Print your name for 5 times by writing a script.
+      a. Print your name for 5 times by writing a script.
 
-      2. Create directory structure like /mnt/c/subfolder1/subfolder2/subfolder3. Create trial.txt file under subfolder3 and write your name for 5 times into that file by writing a script.
+      b. Create directory structure like /mnt/c/subfolder1/subfolder2/subfolder3. Create trial.txt file under subfolder3 and write your name for 5 times into that file by writing a script.
              
 
     - Git usage on the cluster
