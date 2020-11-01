@@ -121,13 +121,12 @@
 
       -- Create directory structure like /mnt/c/subfolder1/subfolder2/subfolder3. Create trial.txt file under subfolder3 and write your name for 5 times into that file by writing a script.
              
-
-    - Git usage on the cluster
+  - Git usage on the cluster
   
-      You would use the following command to update git on the cluster. 
+    You would use the following command to update git on the cluster. 
 
-      ```bash
-          source /usr/local/apps/psycapps/config/conda_bash_update
-      ```
+    ```bash
+        source /usr/local/apps/psycapps/config/conda_bash_update
+    ```
 
-   You would be able to fork a repository from github or create a new repo in github, clone it on the cluster, make changes, git add, git commit and git pull and git push from the command line. It is very important for any further steps. Please refer to the tutorials mentioned in https://github.com/RHULPsychology/Important_Tutorials/blob/master/Git/Important_Links.md
+    You would be able to fork a repository from github or create a new repo in github, clone it on the cluster, make changes, git add, git commit and git pull and git push from the command line. It is very important for any further steps. Please refer to the tutorials mentioned in https://github.com/RHULPsychology/Important_Tutorials/blob/master/Git/Important_Links.md
