@@ -3,12 +3,27 @@
 
 
   - Pre-requisities:
-
+  
+    - Email <can.keles@rhul.ac.uk> for checking whether your access to the cluster is granted. You should be doing this well in advance because it might take IT team.
     - For Mac users use the terminal. Install git on your Mac. An easy installation guide is provided in the video: https://www.youtube.com/watch?v=PSULlxUk744
     
     - For Windows users install the full version of cmder as a terminal. Download and extract cmder from the link: https://github.com/cmderdev/cmder/releases/download/v1.3.16/cmder.zip. Inside the extracted folder double-click the cmder executable to launch the terminal. If you need any further help in the installation of cmder, please look at the official installation documentation https://github.com/cmderdev/cmder/blob/master/README.md#installation.
     
-    - Email <can.keles@rhul.ac.uk> for checking whether your access to the cluster is granted. You should be doing this well in advance because it might take IT team.
+    - Github for Poets. Watch the following tutorial videos for familiarization with Git: (A lot of these will be covered in the lecture)
+    
+      -- Intro to Github
+          https://www.youtube.com/watch?v=BCQHnlnPusY
+
+      -- Branches
+          https://www.youtube.com/watch?v=oPpnCh7InLY
+      
+      -- Forks and Pull Request
+          https://www.youtube.com/watch?v=_NrSWLQsDL4
+
+      -- Rename the Repository
+          https://help.github.com/en/github/administering-a-repository/renaming-a-repository
+    
+    
 
   - Familiarization with the cluster architecture
   
@@ -102,9 +117,9 @@
 
     - Exercises (to be done in the lecture): 
 
-      a. Print your name for 5 times by writing a script.
+      -- Print your name for 5 times by writing a script.
 
-      b. Create directory structure like /mnt/c/subfolder1/subfolder2/subfolder3. Create trial.txt file under subfolder3 and write your name for 5 times into that file by writing a script.
+      -- Create directory structure like /mnt/c/subfolder1/subfolder2/subfolder3. Create trial.txt file under subfolder3 and write your name for 5 times into that file by writing a script.
              
 
     - Git usage on the cluster
